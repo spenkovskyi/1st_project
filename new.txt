@@ -1,4 +1,4 @@
 text new
 text2
 text 3
-text 4
+text 4 - row changed
